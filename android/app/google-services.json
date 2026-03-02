@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927257078359",
+    "project_id": "chaicycle-b3af4",
+    "storage_bucket": "chaicycle-b3af4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927257078359:android:16eaa54ea39853f3669112",
+        "android_client_info": {
+          "package_name": "com.example.chaicycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToeN72b3SCl-omDJ2w0eVGOAeanSTLvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
